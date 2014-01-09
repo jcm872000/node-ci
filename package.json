@@ -4,5 +4,8 @@
   "private": true,
   "scripts": {
     "test":"mocha"
+  },
+  "dependencies":{ 
+    "mocha":"0.3.x"
   }
 }
