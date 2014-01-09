@@ -1,0 +1,4 @@
+language:node_js
+node_js:
+-o.4
+-o.6
